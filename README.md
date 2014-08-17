@@ -1,0 +1,4 @@
+algorithm
+=========
+
+An algorithm playground
