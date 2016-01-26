@@ -1,4 +1,4 @@
-package org.mai;
+package org.mai.tree;
 
 public class Tree {
 	

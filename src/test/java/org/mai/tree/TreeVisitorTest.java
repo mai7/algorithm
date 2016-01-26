@@ -1,9 +1,10 @@
-package org.mai;
+package org.mai.tree;
 
 import junit.framework.Assert;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.mai.tree.*;
 
 public class TreeVisitorTest {
 	

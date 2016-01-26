@@ -1,4 +1,4 @@
-package org.mai;
+package org.mai.tree;
 
 import java.util.LinkedList;
 import java.util.Queue;
